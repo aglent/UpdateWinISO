@@ -14,6 +14,9 @@
 - Windows 10 LTSC 2021 amd64：
   - 母盘：`zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso`
   - 集成后：`19044.6691.251205-1411.21H2_RELEASE_SVC_PROD1_CLIENT_X64FRE_ZH-CN.iso`
+- Windows 11 LTSC 2024 amd64：
+  - 母盘：`zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso`
+  - 集成后：`26200.7462.251206-1712.25H2_GE_RELEASE_SVC_PROD1_CLIENT_X64FRE_ZH-CN.iso`
 
 ## 关于`W10UI.ini`
 - 本仓库默认使用`Win_ISO_Patching_Scripts`的**预设**`W10UI.ini`
