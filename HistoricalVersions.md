@@ -1,8 +1,8 @@
 # UpdateWinISO历史版本
 
 ## `Windows 10`历史版本
-- Windows 10 22H2(2025.10) amd64：
-  - 母盘：`zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso`
+- Windows 10 22H2 amd64：
+  - 母盘(2025年10月最终版)：`zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso`
   - 集成后：`19045.6691.251205-1411.22H2_RELEASE_SVC_PROD1_CLIENT_X64FRE_ZH-CN.iso`
 - Windows 10 LTSC 2021 amd64：
   - 母盘：`zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso`

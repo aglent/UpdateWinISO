@@ -8,8 +8,8 @@
 2. `Win_ISO_Patching_Scripts`地址: https://github.com/adavak/Win_ISO_Patching_Scripts
 
 ## 目前已构建`Windows 10`版本
-- Windows 10 22H2(2025.10) amd64：
-  - 母盘：`zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso`
+- Windows 10 22H2 amd64：
+  - 母盘(2025年10月最终版)：`zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso`
   - 集成后：`19045.6693.251217-1256.22H2_RELEASE_SVC_IM_CLIENT_X64FRE_ZH-CN.iso`
 - Windows 10 LTSC 2021 amd64：
   - 母盘：`zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso`
